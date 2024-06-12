@@ -1,0 +1,15 @@
+﻿  main.cpp
+f:\work\item\earlyitemopengl\show3d\code\main.cpp(112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\work\item\earlyitemopengl\show3d\code\main.cpp(202): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\work\item\earlyitemopengl\show3d\code\main.cpp(203): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\work\item\earlyitemopengl\show3d\code\main.cpp(207): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\work\item\earlyitemopengl\show3d\code\main.cpp(208): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\work\item\earlyitemopengl\show3d\code\main.cpp(210): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\work\item\earlyitemopengl\show3d\code\main.cpp(211): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\work\item\earlyitemopengl\show3d\code\main.cpp(220): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  17 of 2427 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Show3D.vcxproj -> F:\work\Item\earlyItemOpenGL\Show3D\code\..\bin\x64\Release\Show3D.exe
